@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26c4cee0b0f44074aa9c1d9231ed061a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iconDisplayImage: {fileID: 21300000, guid: 8eee86c0fa45ec145b8c8d1488fce242, type: 3}
+  - arrowDisplay: {fileID: 3447297722812906102, guid: bd83390a9fbd9364c9cb819964bee317, type: 3}
+  - flashFirst: {fileID: 1250507045210962, guid: 3fe0df07025a3e747855b1bb671fc04e, type: 3}
+  - flashSecond: {fileID: 335937891136455799, guid: 3657d10c44d3c4945b3d63eb7a39604a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
